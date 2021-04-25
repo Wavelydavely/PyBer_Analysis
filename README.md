@@ -7,13 +7,13 @@ Overview of the analysis:
 
 Results:
 
-    We have discovered some fairly startling facts. Below, we will detail the raw numbers before we articulate a summary:
+   We have discovered some fairly startling facts. Below, we will detail the raw numbers before we articulate a summary:
 
--Total rides:  2375
--Total drivers: 2973
--Total fares: $63,539
--Fare/ride: $26.75
--Fare/driver: $21.37
+    -Total rides:  2375
+    -Total drivers: 2973
+    -Total fares: $63,539
+    -Fare/ride: $26.75
+    -Fare/driver: $21.37
 
 
 -Urban rides: 1625
@@ -39,7 +39,7 @@ Results:
 
 Summary:
 
-One of the attractive features of PyBer in urban settings is the ability to secure an inexpensive ride at a moment's notice. The way we secure this convenience is by having drivers available throughout the city who can respond to a call immediately upon recieving it. One unexpected result of this is that there seems to be a surplus of drivers; we can see that the total number of drivers exceeds the total number of rides given in urban settings! The opposite of this is true in rural settings, and it has a great impact on the fare per driver and per ride comparing each city type.
+   One of the attractive features of PyBer in urban settings is the ability to secure an inexpensive ride at a moment's notice. The way we secure this convenience is by having drivers available throughout the city who can respond to a call immediately upon recieving it. One unexpected result of this is that there seems to be a surplus of drivers; we can see that the total number of drivers exceeds the total number of rides given in urban settings! The opposite of this is true in rural settings, and it has a great impact on the fare per driver and per ride comparing each city type.
     In an effort to expand our rural coverage, we would recommend expanding the numbers of drivers available to serve these communities. This could be done by shifting willing drivers who typically serve urban communities to areas which we now identify as having a higher need for drivers. One way to do this without burdening our drivers could be to shift willing suburban drivers to rural areas, and urban drivers to suburban areas. This shift would be attractive to drivers in the sense that they would then receive a higher fare per ride.
     Another benefit of this shift would be a decrease in current fares per ride in rural communities as supply of drivers increases. We would recommend a marketing campaign targeted toward rural communities informing them of expanded services and lower prices. We would also recommend exploring the expansion of the number of riders per ride, decreasing the amount of time drivers spend driving alone, not collecting fare. This expansion would be most appropriate when customers would be gathering together, in taverns or restaurants. A great way to facilitate this would be to build relationships with popular taverns and restaurants in rural communities, potentially offering free or reduced fares to employees of these establishments.
     
