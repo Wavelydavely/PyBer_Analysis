@@ -16,25 +16,25 @@ Results:
     -Fare/driver: $21.37
 
 
--Urban rides: 1625
--Urban drivers: 2405
--Urban fares: $39,854
--Fare/ride: $24.53
--Fare/driver: $16.57
+    -Urban rides: 1625
+    -Urban drivers: 2405
+    -Urban fares: $39,854
+    -Fare/ride: $24.53
+    -Fare/driver: $16.57
 
 
--Suburban rides: 625
--Suburban drivers: 490
--Suburban fares: $19,356
--Fare/ride: $30.97
--Fare/driver: $39.5
+    -Suburban rides: 625
+    -Suburban drivers: 490
+    -Suburban fares: $19,356
+    -Fare/ride: $30.97
+    -Fare/driver: $39.5
 
 
--Rural rides: 125
--Rural drivers: 78
--Rural fares: $4328
--Fare/ride: $34.62
--Fare/driver: $55.49
+    -Rural rides: 125
+    -Rural drivers: 78
+    -Rural fares: $4328
+    -Fare/ride: $34.62
+    -Fare/driver: $55.49
 
 
 Summary:
